@@ -1,2 +1,9 @@
 assets/clips/
 assets/audio/*.wav
+assets/tower/clips/
+assets/tower/scenes/_lbl/
+assets/tower/tower_video_silent.mp4
+assets/tower/tower_final_audio.m4a
+assets/audio/src/*.wav
+assets/audio/src/*.mp3
+assets/audio/src/*.ogg
